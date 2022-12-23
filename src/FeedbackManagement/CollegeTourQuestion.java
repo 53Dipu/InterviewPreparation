@@ -1,8 +1,8 @@
-package InterviwePrep;
+package FeedbackManagement;
 
 import java.util.Scanner;
 
-public class CollegeTour {
+public class CollegeTourQuestion {
     public static void main(String[] args) {
 
        /* Background of the Requirements: In College, students are required to provide feedback on each tutor associated to the college and mapped to the each courses that Students has enrolled.
